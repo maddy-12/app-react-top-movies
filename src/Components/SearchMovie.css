@@ -1,0 +1,7 @@
+input {
+    height: 50px;
+    width: 500px;
+    border-radius: 5px;
+   padding: 0 20px;
+   margin: 50px 0;
+}
